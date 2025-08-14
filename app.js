@@ -12,7 +12,7 @@ function agregarAmigo (nombre) {
      limpiarNombre();
 
 }
-
+// Actualiza la lista de amigos
 function ActualizarListaAmigos () {
      let listaAmigos = document.getElementById('amigo');
      amigos.push(listaAmigos.value);
@@ -20,6 +20,7 @@ function ActualizarListaAmigos () {
      return amigos;
 }
 
+// Limpia el input luego de agregar un amigo
 function limpiarNombre () {
      document.querySelector("#amigo").value = "";
      return;
