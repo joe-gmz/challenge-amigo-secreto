@@ -10,6 +10,8 @@ function agregarAmigo (nombre) {
      }
      ActualizarListaAmigos();
      limpiarNombre();
+     listaDeAmigos();
+     return;
 
 }
 // Actualiza la lista de amigos
@@ -24,4 +26,15 @@ function ActualizarListaAmigos () {
 function limpiarNombre () {
      document.querySelector("#amigo").value = "";
      return;
+}
+
+function listaDeAmigos () {
+     let lista = document.getElementById('listaAmigos');
+     lista.innerHTML = "";
+     amigos.forEach(function (amigos) {
+          let li = document.createElement('li');
+          li.textContent = amigos;
+          lista.appendChild(li);
+     });
+     return amigos;
 }
