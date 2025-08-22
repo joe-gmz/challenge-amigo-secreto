@@ -12,7 +12,6 @@ Permite agregar participantes, validar nombres y realizar el sorteo de forma aut
 
 
 ## 📸 Capturas de Pantalla  
-*(Agrega imágenes o GIFs de tu proyecto en acción)*  
 ![Animation](https://github.com/user-attachments/assets/73deba55-a840-446c-95c2-2dc3463310ad)
 
 
