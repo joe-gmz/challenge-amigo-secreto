@@ -7,23 +7,22 @@ Permite agregar participantes, validar nombres y realizar el sorteo de forma aut
 
 [![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-blue?logo=github)](https://github.com/joe-gmz/challenge-amigo-secreto)  
 
----
-
-## 🚀 Demo  
-👉 [Ver el proyecto en GitHub Pages](https://tu-enlace-aqui.com) *(opcional)*  
 
 ---
+
 
 ## 📸 Capturas de Pantalla  
 *(Agrega imágenes o GIFs de tu proyecto en acción)*  
-![Vista previa](./assets/screenshot.png)  
+![Animation](https://github.com/user-attachments/assets/73deba55-a840-446c-95c2-2dc3463310ad)
+
 
 ---
+
 
 ## 🛠️ Tecnologías Utilizadas  
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)  
+- JavaScript
 
 ---
 
@@ -40,6 +39,32 @@ Permite agregar participantes, validar nombres y realizar el sorteo de forma aut
 1. Clona este repositorio:  
    ```bash
    git clone https://github.com/joe-gmz/challenge-amigo-secreto.git
+
+---
+
+## 🤝 Contribuciones
+
+¡Las contribuciones son bienvenidas! 🎉
+
+Si tienes ideas para mejorar el proyecto o quieres añadir nuevas funciones:
+
+1. Haz un fork del repositorio.
+2. Crea una rama con tu mejora:
+git checkout -b feature/nueva-funcion
+3. Haz commit de tus cambios.
+
+---
+
+## 👨‍💻 Autor
+
+Desarrollado con ❤️ por https://github.com/joe-gmz
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo y mejorarlo!
+
 
 
 
